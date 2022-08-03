@@ -15,12 +15,12 @@ The summary statistics show that most rides occur in Urban settings, where there
 
 The fare per ride, however, is lowest in the Urban cities, slightly higher in the Suburban cities, and higher in Rural cities. It also follows that the average fare per driver is much higher in Rural cities than in Suburban or Urban cities (where drivers make less than half as much as Rural drivers). 
 
-![DataFrame with Summary Statistics, All Data](https://github.com/saramcel/PyBer_Analysis/blob/312f44987052ddd962d98e2fbee3ab9a8bd685c8/analysis/PyBer_Summary_DataFrame.png)
+![DataFrame with Summary Statistics, All Data](https://github.com/saramcel/PyBer_Analysis/blob/8da9e6293f9bb286d825de10d24ccb1a11c6aa46/analysis/PyBer_Summary_DataFrame.png)
 
 ## Fares by City Type over Time
 The line graph dives deeper into the period between January 1st, 2019, to April 28th, 2019. The sum of the weekly fare is displaye on the y-axis, and the months are marked on the x-axis. The Urban fares are generally higher than the Suburban fares, which are higher than the Rural fares. By the end of April, Suburban fares are rising as Urban and Rural fares stagnate. Urban fares have an unstable pattern in March. For all city types, the fares start pretty low in the first week of January, and there is a small jump in fares in the last week of February. 
 
-![Line Graph of Fares by City Type, Spring 2019](https://github.com/saramcel/PyBer_Analysis/blob/3fa5d61729d428c3cdd0ed7459bedd786f319c86/analysis/PyBer_fare_summary.png)
+![Line Graph of Fares by City Type, Spring 2019](https://github.com/saramcel/PyBer_Analysis/blob/8da9e6293f9bb286d825de10d24ccb1a11c6aa46/analysis/PyBer_fare_summary.png)
 
 # Summary
 

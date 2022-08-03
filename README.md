@@ -26,7 +26,7 @@ The line graph dives deeper into the period between January 1st, 2019, to April 
 
 Considering the different ways in which clients are using PyBer in each type of city, this analysis team has three business recommendations for the CEO, V. Isualize.
 
-1. Examine why the numbers around New Year's Eve are so low. The first week of January fare numbers are low among all city types, especially Urban and Sububan. Customers who go out on New Years Eve are not choosing PyBer to get home on New Year's Day. Answer the following questions:
+1. Examine why the numbers around New Year's Eve are so low. The first week of January fare numbers are low among all city types, especially Urban and Suburban. Customers who go out on New Years Eve are not choosing PyBer to get home on New Year's Day. Answer the following questions:
    - Are fewer drivers working on New Year's Eve?
    - What would incentivize more drivers to drive on New Year's Eve in Urban and Suburban cities?
    

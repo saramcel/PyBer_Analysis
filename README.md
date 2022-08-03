@@ -1,19 +1,5 @@
 # PyBer Analysis
 
-Overview of the analysis: Explain the purpose of the new analysis.
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-
-Analysis (14 points)
-The written analysis has the following:
-
 # Overview
 
 ## Purpose 
@@ -32,14 +18,13 @@ The fare per ride, however, is lowest in the Urban cities, slightly higher in th
 ![DataFrame with Summary Statistics, All Data](https://github.com/saramcel/PyBer_Analysis/blob/312f44987052ddd962d98e2fbee3ab9a8bd685c8/analysis/PyBer_Summary_DataFrame.png)
 
 ## Fares by City Type over Time
-
 The line graph dives deeper into the period between January 1st, 2019, to April 28th, 2019. The sum of the weekly fare is displaye on the y-axis, and the months are marked on the x-axis. The Urban fares are generally higher than the Suburban fares, which are higher than the Rural fares. By the end of April, Suburban fares are rising as Urban and Rural fares stagnate. Urban fares have an unstable pattern in March. For all city types, the fares start pretty low in the first week of January, and there is a small jump in fares in the last week of February. 
 
 ![Line Graph of Fares by City Type, Spring 2019](https://github.com/saramcel/PyBer_Analysis/blob/3fa5d61729d428c3cdd0ed7459bedd786f319c86/analysis/PyBer_fare_summary.png)
 
 # Summary
 
-Considering the different ways in which clients are using PyBer in each type of city, this analysis team has three business recommendations for the CEO.
+Considering the different ways in which clients are using PyBer in each type of city, this analysis team has three business recommendations for the CEO, V. Isualize.
 
 1. Examine why the numbers around New Year's Eve are so low. The first week of January fare numbers are low among all city types, especially Urban and Sububan. Customers who go out on New Years Eve are not choosing PyBer to get home on New Year's Day. Answer the following questions:
    - Are fewer drivers working on New Year's Eve?
